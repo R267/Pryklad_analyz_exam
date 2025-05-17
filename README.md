@@ -1,0 +1,2 @@
+# Pryklad_analyz_exam
+Pryklad_analyz_exam
